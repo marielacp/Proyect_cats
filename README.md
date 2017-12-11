@@ -14,7 +14,7 @@ Fech: "10/12/2017"
 # Crear una pagina web de Gatitos-Responsive.
 Creando mi primera pagina web Responsive, gatitos deben de mostrarse en Mobile, tablet y desktop.
 
- ## Desarrollo
+## Desarrollo
 1. Se crea la estructura de la página.
 2. Se aplica estilos.
 3. Se crea conexion de paginas.
